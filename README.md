@@ -19,6 +19,12 @@ Though I couldn't implement a lot of security in the project because I am a fres
 
 If you want to run this on your system, you have to configure the config folder. You have to edit the confidurations in the constants.php file. That's where the database and all the connections are set. If there's any problem while configuring those, feel free to contact me.  
 
+
+# Database
+
+In this project, I have used MySQL as the database. And to connect the project with my database and query the database, I used mysqli method. Set up the database in my PC as localhost with the help of XAMPP. 
+
+
 # Contents 
 
 The **menu.php** and **footer.php** are templates for the other pages located in the **Reusables** folder inside the admin folder. Every pages include them. So wrote once and included in every one of the pages. These pages will be viewed by the admins who are logged in the system. That's why they are in the admin folder. Menu and footer will be different for the front website. 
