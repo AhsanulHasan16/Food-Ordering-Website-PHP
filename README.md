@@ -1,4 +1,4 @@
-# food-ordering-website-PHP
+# Food-Ordering-Website-PHP
 This is my very first big project in raw PHP. It's a food ordering website. Has all the advantages and features you would expect from a food ordering website. There's also an admin panel, who are there to manage the website. 
 Has login system. No normal customers can see the admin panel. 
 
