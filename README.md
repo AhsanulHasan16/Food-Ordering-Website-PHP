@@ -12,17 +12,17 @@ Has login system. No normal customers can see the admin panel.
 
 Though I couldn't implement a lot of security in the project because I am a fresher. But still there are some security features I implemented in this project. 
 
-1. Passwords are all encrypted before being stored in the database. 
+1. Passwords are all encrypted with md5 hashing before being stored in the database. 
 2. Protected from SQL Injections. 
-
-# Configuration
-
-If you want to run this on your system, you have to configure the config folder. You have to edit the confidurations in the constants.php file. That's where the database and all the connections are set. If there's any problem while configuring those, feel free to contact me.  
 
 
 # Database
 
 In this project, I have used MySQL as the database. And to connect the project with my database and query the database, I used mysqli method. Set up the database in my PC as localhost with the help of XAMPP. 
+
+# Deployment
+
+There will be some final polishing and brushing before I deploy it. It will be deployed very soon. 
 
 
 # Contents 
